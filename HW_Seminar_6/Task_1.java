@@ -1,4 +1,4 @@
-package Seminar_6;
+package HW_Seminar_6;
 
 import java.util.*;
 
